@@ -176,8 +176,7 @@ class DistributionGenerator:
         samples = []
         for _ in range(n_samples):
             # Sum of r geometric random variables
-            value = sum(self.geometric(1, p))
-            for _ in range(r))
+            value = sum(self.geometric(1, p)[0] for _ in range(r))
             samples.append(value)
         return samples
 
