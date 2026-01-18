@@ -1,4 +1,4 @@
-# time_series_data.py
+# time_series.py
 
 import math
 import random

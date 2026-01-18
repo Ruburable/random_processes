@@ -1,4 +1,4 @@
-# panel_data.py
+# panel.py
 
 import math
 import random

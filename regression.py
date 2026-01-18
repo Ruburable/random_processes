@@ -1,4 +1,4 @@
-# regression_data.py
+# regression.py
 
 import math
 import random
